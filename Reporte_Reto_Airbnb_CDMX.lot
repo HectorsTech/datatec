@@ -1,0 +1,21 @@
+\babel@toc {spanish}{}\relax 
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {2.1}{\ignorespaces Diagnóstico inicial de las 19 variables de \texttt {listings.csv} ($n = 30{,}468$).}}{5}{table.caption.5}%
+\contentsline {table}{\numberline {2.2}{\ignorespaces Etapas, herramientas estadísticas/gráficas y criterio principal de la metodología aplicada.}}{7}{table.caption.7}%
+\contentsline {table}{\numberline {2.3}{\ignorespaces Decisiones y criterios de selección de variables (Paso 1).}}{7}{table.caption.8}%
+\contentsline {table}{\numberline {2.4}{\ignorespaces Comparación de estadísticos descriptivos antes (\texttt {dataSet}) y después de eliminar nulos en \texttt {price} (\texttt {filter\_data}).}}{9}{table.caption.10}%
+\contentsline {table}{\numberline {2.5}{\ignorespaces Resultados de la auditoría de 13 reglas de consistencia ($n = 28{,}360$).}}{9}{table.caption.11}%
+\contentsline {table}{\numberline {2.6}{\ignorespaces Ejemplo de anuncios duplicados con distinto \texttt {id} detectados en la auditoría.}}{10}{table.caption.12}%
+\contentsline {table}{\numberline {2.7}{\ignorespaces Diagnóstico descriptivo y detección de atípicos (RIC) en variables numéricas ($n = 28{,}281$).}}{10}{table.caption.13}%
+\contentsline {table}{\numberline {2.8}{\ignorespaces Ejemplos de los precios más extremos detectados antes de la depuración.}}{11}{table.caption.14}%
+\contentsline {table}{\numberline {2.9}{\ignorespaces Efecto del tratamiento de valores atípicos sobre los estadísticos de \texttt {price}.}}{13}{table.caption.17}%
+\contentsline {table}{\numberline {2.10}{\ignorespaces Distribución de frecuencias y precio (MXN) por tipo de alojamiento (\texttt {room\_type}).}}{13}{table.caption.18}%
+\contentsline {table}{\numberline {2.11}{\ignorespaces Distribución de frecuencias y precio (MXN) por alcaldía (\texttt {neighbourhood}), ordenada por precio mediano descendente.}}{14}{table.caption.19}%
+\contentsline {table}{\numberline {2.12}{\ignorespaces Resumen de variables derivadas y esquema de codificación aplicados (Paso 6).}}{14}{table.caption.20}%
+\contentsline {table}{\numberline {2.13}{\ignorespaces Resultados de las 13 pruebas automatizadas de validación de la base final.}}{20}{table.caption.27}%
+\contentsline {table}{\numberline {2.14}{\ignorespaces Evaluación de representatividad: proporciones originales ($n = 30{,}468$) vs.\ finales ($n = 27{,}583$).}}{21}{table.caption.29}%
+\contentsline {table}{\numberline {2.15}{\ignorespaces Evolución de los estadísticos descriptivos a través de las tres etapas de preparación.}}{21}{table.caption.30}%
+\contentsline {table}{\numberline {2.16}{\ignorespaces Balance de registros a lo largo del proceso de preparación de la base de datos.}}{22}{table.caption.31}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {A.1}{\ignorespaces Inventario completo de las 37 columnas de \texttt {listings\_final\_codificado.csv}.}}{25}{table.caption.33}%

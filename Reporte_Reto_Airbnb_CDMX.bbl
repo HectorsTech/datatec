@@ -1,0 +1,64 @@
+\begin{thebibliography}{}
+
+\bibitem[Chapman et~al., 2000]{chapman2000crispdm}
+Chapman, P., Clinton, J., Kerber, R., Khabaza, T., Reinartz, T., Shearer, C.,
+  and Wirth, R. (2000).
+\newblock {CRISP-DM 1.0}: Step-by-step data mining guide.
+\newblock Technical report, SPSS Inc.
+
+\bibitem[Garc{\'i}a et~al., 2015]{garcia2015data}
+Garc{\'i}a, S., Luengo, J., and Herrera, F. (2015).
+\newblock {\em Data Preprocessing in Data Mining}.
+\newblock Springer, Cham.
+
+\bibitem[Hunter, 2007]{hunter2007matplotlib}
+Hunter, J.~D. (2007).
+\newblock Matplotlib: A 2d graphics environment.
+\newblock {\em Computing in Science \& Engineering}, 9(3):90--95.
+
+\bibitem[{Inside Airbnb}, 2026]{insideairbnb2026}
+{Inside Airbnb} (2026).
+\newblock Get the data: Mexico city, mexico (listings.csv).
+\newblock \url{https://insideairbnb.com/get-the-data/}.
+\newblock Conjunto de datos de anuncios de Airbnb en la Ciudad de M{\'e}xico,
+  fecha de corte: 25 de septiembre de 2026.
+
+\bibitem[Little and Rubin, 2019]{little2019statistical}
+Little, R. J.~A. and Rubin, D.~B. (2019).
+\newblock {\em Statistical Analysis with Missing Data}.
+\newblock John Wiley \& Sons, Hoboken, NJ, 3 edition.
+
+\bibitem[McKinney, 2022]{mckinney2022python}
+McKinney, W. (2022).
+\newblock {\em Python for Data Analysis: Data Wrangling with pandas, NumPy, and
+  Jupyter}.
+\newblock O'Reilly Media, Sebastopol, CA, 3 edition.
+
+\bibitem[Spearman, 1904]{spearman1904proof}
+Spearman, C. (1904).
+\newblock The proof and measurement of association between two things.
+\newblock {\em The American Journal of Psychology}, 15(1):72--101.
+
+\bibitem[Tukey, 1977]{tukey1977exploratory}
+Tukey, J.~W. (1977).
+\newblock {\em Exploratory Data Analysis}.
+\newblock Addison-Wesley, Reading, MA.
+
+\bibitem[Virtanen et~al., 2020]{virtanen2020scipy}
+Virtanen, P., Gommers, R., Oliphant, T.~E., Haberland, M., Reddy, T.,
+  Cournapeau, D., Burovski, E., Peterson, P., Weckesser, W., Bright, J.,
+  van~der Walt, S.~J., Brett, M., Wilson, J., Millman, K.~J., Mayorov, N.,
+  Nelson, A. R.~J., Jones, E., Kern, R., Larson, E., Carey, C.~J., Polat,
+  {\.I}., Feng, Y., Moore, E.~W., VanderPlas, J., Laxalde, D., Perktold, J.,
+  Cimrman, R., Henriksen, I., Quintero, E.~A., Harris, C.~R., Archibald, A.~M.,
+  Ribeiro, A.~H., Pedregosa, F., and van Mulbregt, P. (2020).
+\newblock {SciPy} 1.0: Fundamental algorithms for scientific computing in
+  {Python}.
+\newblock {\em Nature Methods}, 17(3):261--272.
+
+\bibitem[Waskom, 2021]{waskom2021seaborn}
+Waskom, M.~L. (2021).
+\newblock seaborn: statistical data visualization.
+\newblock {\em Journal of Open Source Software}, 6(60):3021.
+
+\end{thebibliography}

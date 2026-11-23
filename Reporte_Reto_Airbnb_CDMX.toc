@@ -1,0 +1,35 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{Resumen Ejecutivo}{i}{chapter*.1}%
+\contentsline {chapter}{\numberline {1}Planteamiento del Problema y Contexto del Reto}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Introducción y contexto}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Planteamiento del problema}{1}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Preguntas de investigación}{2}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Objetivos}{2}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}Objetivo general}{2}{subsection.1.4.1}%
+\contentsline {subsection}{\numberline {1.4.2}Objetivos específicos}{2}{subsection.1.4.2}%
+\contentsline {section}{\numberline {1.5}Hipótesis de trabajo}{3}{section.1.5}%
+\contentsline {section}{\numberline {1.6}Alcance y fuente de datos}{3}{section.1.6}%
+\contentsline {chapter}{\numberline {2}Preparación de la Base de Datos}{4}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Descripción inicial de la base de datos original}{4}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Descripción de la metodología utilizada}{5}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Descripción de los pasos y criterios en la toma de decisiones}{6}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Paso 1: Revisión de relevancia de variables}{6}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Paso 2: Revisión y corrección de datos perdidos}{6}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Paso 3: Detección y corrección de inconsistencias}{9}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.4}Paso 4: Tratamiento de variables numéricas y valores atípicos}{10}{subsection.2.3.4}%
+\contentsline {subsection}{\numberline {2.3.5}Paso 5: Tratamiento de variables categóricas}{13}{subsection.2.3.5}%
+\contentsline {subsection}{\numberline {2.3.6}Paso 6: Transformación de datos y codificación}{13}{subsection.2.3.6}%
+\contentsline {section}{\numberline {2.4}Interpretación de los análisis exploratorios gráficos}{15}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Frecuencias y precios medianos de variables categóricas}{15}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Distribuciones univariadas de las variables numéricas}{16}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}Matriz de correlación de Spearman}{17}{subsection.2.4.3}%
+\contentsline {subsection}{\numberline {2.4.4}Dispersión del precio por tipo de alojamiento y alcaldías principales}{18}{subsection.2.4.4}%
+\contentsline {subsection}{\numberline {2.4.5}Distribución geoespacial y relación reseñas vs.\ precio}{19}{subsection.2.4.5}%
+\contentsline {section}{\numberline {2.5}Validación de la base de datos final}{19}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}Validación automatizada de completitud y consistencia}{20}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.2}Validación de representatividad y estabilidad estadística}{20}{subsection.2.5.2}%
+\contentsline {section}{\numberline {2.6}Resultados, archivos generados y conclusiones}{22}{section.2.6}%
+\contentsline {subsection}{\numberline {2.6.1}Resumen cuantitativo del proceso y entregables}{22}{subsection.2.6.1}%
+\contentsline {subsection}{\numberline {2.6.2}Conclusiones}{22}{subsection.2.6.2}%
+\contentsline {chapter}{Referencias Bibliográficas}{24}{Item.14}%
+\contentsline {chapter}{\numberline {A}Estructura de la Base de Datos Codificada}{25}{appendix.Alph1}%

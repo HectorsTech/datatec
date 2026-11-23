@@ -1,0 +1,15 @@
+\babel@toc {spanish}{}\relax 
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Diagrama de flujo de la metodología secuencial de preparación de la base de datos.}}{6}{figure.caption.6}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Porcentaje de datos perdidos por variable tras eliminar columnas vacías.}}{8}{figure.caption.9}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Comparación de histogramas y diagramas de caja de \texttt {price} en escala original vs.\ $\ln (\texttt {price})$.}}{12}{figure.caption.15}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Diagrama de caja de \texttt {price} antes y después de la depuración de atípicos con Tukey sobre $\ln (\texttt {price})$.}}{12}{figure.caption.16}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Distribución de frecuencias de \texttt {room\_type} y \texttt {neighbourhood} en la base depurada.}}{15}{figure.caption.21}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Precio mediano por noche (MXN) según tipo de alojamiento y alcaldía.}}{16}{figure.caption.22}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Histogramas y curvas de densidad de las principales variables numéricas en la base depurada.}}{16}{figure.caption.23}%
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Matriz de correlación de Spearman ($\rho $) entre variables numéricas de la base depurada.}}{17}{figure.caption.24}%
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Diagramas de caja de \texttt {price} por tipo de alojamiento y por las 8 alcaldías con mayor oferta.}}{18}{figure.caption.25}%
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Distribución geográfica de los anuncios coloreada por $\ln (\texttt {price})$ (izquierda) y diagrama de dispersión de \texttt {number\_of\_reviews} frente a \texttt {price} (derecha).}}{19}{figure.caption.26}%
+\contentsline {figure}{\numberline {2.11}{\ignorespaces Comparación de proporciones originales vs.\ finales por tipo de alojamiento y alcaldía.}}{21}{figure.caption.28}%
+\addvspace {10\p@ }
